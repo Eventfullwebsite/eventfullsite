@@ -1,0 +1,220 @@
+.instagramtoolbar{
+	width: 1340px;
+	height: 72px;
+	background-color:  rgba(196, 196, 196, 0.5);
+}
+
+.instagramtoolbar .avatar {
+	width: 56px;
+	height: 56px;
+	margin-left:  630px;
+	margin-top: 7px;
+
+}
+
+.instagramtoolbar .logo {
+	position: absolute;
+	width: 200px;
+	height: 50px;
+	margin-top: -40px;
+
+}
+
+.instagramtoolbar .instagramiconbar {
+	position: absolute;
+	width: 167px;
+	height: 36px;
+	margin-left:  1080px;
+	margin-top: -40px;
+}
+
+.instagramtoolbar .searchbar {
+	position: absolute;
+	width: 260px;
+	height: 37px;
+	left: 588px;
+	top: 25px;
+	background-color: #FFFFFF;
+}
+
+.instagramtoolbar .searchbar h3 {
+	position: absolute;
+	color:#C3C2C2;
+	font-size: 20px;
+ 	top: -17px;
+
+ }
+
+
+.instagramcontainer {
+	margin-top: 100px;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-bottom: 150px;
+}
+
+
+.instagramcontainer.avatar {
+	position: absolute;
+	width: 270px;
+	height: 289px;
+	left: 230px;
+	top: 500px;
+}
+
+.containerheader h4{
+	font-size: 25px;
+	font-weight: 600px;
+	position: absolute;
+	left: 500px;
+	top: 200px;
+}
+
+.instagramdata1 h4 {
+	position: absolute;
+	   left: 500px;
+	   top: 270px;
+	   font-size: 20px;
+	   font-weight: 400px;
+}
+
+
+.instagramdata2 h4 {
+		position: absolute;
+		left: 740px;
+		top: 270px;
+	    font-size: 20px;
+	    font-weight: 400px;
+
+}
+
+.instagramdata3 h4 {
+	   position: absolute;
+       left: 938px;
+       top: 270px;
+	   font-size: 20px;
+	   font-weight: 400px;
+
+}
+
+.instagramdata4 h4 {
+		position: absolute;
+	   left: 500px;
+	   top: 320px;
+	   font-size: 20px;
+	   font-weight: 400px;
+	   font-stretch: condensed;
+}
+
+.instagrambio h4{
+	   font-size: 20px;
+	   font-weight: 400px;
+} 
+
+
+.instagrambio a{
+	text-decoration: none;
+	color:  black;
+	font-size: 20px;
+	font-weight:  600px;	
+} 
+
+.separator {
+	position: absolute;
+	width: 1145px;
+	height: 2px;
+	top: 590px;
+	margin-left: 100px;
+	background-color: #C4C4C4;
+}
+
+.sectiontitle1{
+	position: absolute;
+	left: 270px;
+	font-size: 20px;
+}
+
+.sectiontitle2{
+	position: absolute;
+	left: 450px;
+	font-size: 20px;
+}
+
+.sectiontitle3{
+	position: absolute;
+	left: 600px;
+	font-size: 20px;
+}
+
+.sectiontitle4{
+	position: absolute;
+	left: 750px;
+	font-size: 20px;
+}
+
+.insta1 {
+	position: absolute;
+    left: 132px;
+    top: 684px;
+}
+.insta2 {
+	position: absolute;
+    left: 537px;
+    top: 684px;
+}
+
+.insta3 {
+	position: absolute;
+	left: 953px;
+	top: 684px;
+}
+
+.insta4 {
+	position: absolute;
+	left: 132px;
+	top: 1097px;
+}
+
+
+.insta5 {
+	position: absolute;
+	left: 537px;
+	top: 1097px;
+}
+
+.insta6 {
+	position: absolute;
+	left: 953px;
+	top: 1097px;
+}
+
+.instagramcard {
+	width:  350px;
+	height: 350px;
+	margin-left: -13px;
+
+
+}
+
+
+
+
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .instagram {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .instagram {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .instagram {
+    width: 300px;
+  }
+}
