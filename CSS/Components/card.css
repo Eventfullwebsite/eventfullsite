@@ -11,11 +11,31 @@
         border-radius: 10px;
 }
 
-.card-homepage {
+.card-homepage{
         padding: 30px;
         display: flex;
         align-items: center;
-        justify-content: space-between;
+}
+
+.card-homepage H2 {
+        width: 360px;
+        height: 350px;
+        right: 25px;
+        position: absolute;
+
+}
+
+.card-homepage a {
+        position: relative;
+        right: 225px;
+        margin-bottom: -320px;
+        text-align: center;
+}
+
+.card-homepage p {
+        line-height: 40px;
+        font-size: 20px;
+        text-align: center;
 }
 
 .card btn-grey{ 
