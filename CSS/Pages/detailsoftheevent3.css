@@ -1,0 +1,15 @@
+/*Showroom: Swedish Fashion Show page*/
+
+.image3 {
+        border-radius: 10px;
+        vertical-align: middle;
+        width: 800px;
+        height:550px;
+        margin-bottom: 30px
+ }
+
+.image3 img {
+        width: 900px;
+        height: 400px;
+        border-radius: 10px;
+}
