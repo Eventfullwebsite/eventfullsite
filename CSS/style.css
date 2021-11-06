@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Lexend+Deca:wght@300&family=Roboto:wght@300&display=swap");
+@import url("Components/container.css"); 
+@import url("Components/avatar.css"); 
+@import url("Components/button.css"); 
+@import url("Components/banner.css");
+@import url("Components/card.css");
+@import url("Pages/instagram.css");
+
+
+body{
+    background-color: white;
+    font-family:Roboto;
+    font-size: 16px;
+}
+
+h1,h2{
+    font-family: Julius sans one;
+    color: #000000;
+    font-weight: 400px;
+    font-style: normal;
+}
+
+h1{
+    font-size: 32px;
+}
+
+h2{
+  font-size: 26px;
+}
+
+h3{
+   font-style: Lexend Deca;
+   font-size: 24px;
+   line-height: 30px;
+   font-weight: 400;
+   font-style: normal;
+   color: #000000;
+}
+
+
