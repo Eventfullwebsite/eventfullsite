@@ -20,14 +20,14 @@
 .card-homepage H2 {
         width: 360px;
         height: 350px;
-        right: 55px;
+        right: 70px;
         position: absolute;
 
 }
 
 .card-homepage a {
         position: relative;
-        right: 255px;
+        right: 265px;
         margin-bottom: -320px;
         text-align: center;
 }
