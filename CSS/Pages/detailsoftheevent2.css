@@ -1,0 +1,26 @@
+/*Saturday brunch page*/
+
+.brunch {
+	text-align: center;
+}
+
+.img-text p {
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: justify;	
+	margin-bottom: 30px;
+}
+
+.image2 {
+
+	width: 900px; 
+	height: 400px;
+    border-radius: 10px;
+
+}
+
+.btn-grey {
+	position: relative;
+
+}
