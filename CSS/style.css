@@ -4,10 +4,12 @@
 @import url("Components/button.css"); 
 @import url("Components/banner.css");
 @import url("Components/card.css");
+@import url("Pages/homepage.css");
 @import url("Pages/instagram.css");
-@import url("pages/detailsoftheevent1.css");
-@import url("pages/detailsoftheevent2.css");
-@import url("pages/detailsoftheevent3.css");
+@import url("Pages/detailsoftheevent1.css");
+@import url("Pages/detailsoftheevent2.css");
+@import url("Pages/detailsoftheevent3.css");
+@import url("Pages/mostpopularevents.css");
 
 
 body{
