@@ -39,10 +39,12 @@
         right : 25px;
 }
 
-.card btn-grey{ 
-    
+.card-plan {
+        border-radius: 10px;
+        vertical-align: middle;
+        padding: 30px;
+        display: flex;
+        align-items: center;
 }
-
-
 
 
