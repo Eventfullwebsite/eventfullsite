@@ -1,0 +1,50 @@
+.detailsofaneventcard {
+	height: 950px;
+	margin: auto;
+	padding-top: 50px;
+}
+
+.detailsofaneventcard h1{
+	text-align: center;
+	margin-left: 60px;
+	
+}
+
+
+.detailsofaneventcard h2{
+    text-align: center;
+	margin-top: 30px;
+	padding-bottom: 15px;
+	margin-left: 580px;
+	width: 220px;
+	line-height: 30px;
+}
+
+
+.detailsofaneventcard img{
+	position: absolute;
+	width: 900px; 
+	height: 400px;
+    border-radius: 20px;
+    margin: auto;
+    left: 250px;
+
+}
+
+
+.detailsofaneventcard p{
+	position: absolute;
+	width: 900px;
+	text-align: justify;	
+	margin-top: 450px;
+	left: 250px;
+
+
+}
+
+.button-grey {
+	position: absolute;
+	margin-top: 620px;
+	margin-left: 560px;
+
+}
