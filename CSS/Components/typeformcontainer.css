@@ -1,4 +1,11 @@
 .typeformcontainer {
+	position: absolute;
 	top: 500px;
 	left:  250px;
+}
+
+.typeformcontainer a {
+	position: absolute;
+	top: 750px;
+	left: 300px;
 }
