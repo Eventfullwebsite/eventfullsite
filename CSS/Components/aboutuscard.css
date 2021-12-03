@@ -1,0 +1,113 @@
+.aboutuscard {
+	height: 1100px;
+	}
+
+
+.aboutuscard h1{
+	position: absolute;
+	width: 337px;
+	height: 38px;
+	left: 590px;
+	top: 500px;
+}
+
+#image1{
+	position: absolute;
+	border-radius: 100px;
+	width: 200px;
+	top:700px;
+	left: 200px;
+}
+
+.button1 {
+	position: absolute;
+	top:920px;
+	left: 185px;
+}
+
+#image2{
+	position: absolute;
+	border-radius: 100px;
+	width:200px;
+	top:700px;
+	left: 455px;
+}
+
+.button2 {
+	position: absolute;
+	top:920px;
+	left: 450px;
+}
+
+#image3{
+	position: absolute;
+	border-radius: 100px;
+	width:200px;
+	top:700px;
+	left: 730px;
+}
+
+.button3 {
+	position: absolute;
+	top:920px;
+	left: 710px;
+}
+
+#image4{
+	position: absolute;
+	border-radius: 100px;
+	width:200px;
+	top:700px;
+	left: 1000px;
+}
+
+.button4 {
+	position: absolute;
+	top:920px;
+	left: 980px;
+}
+
+
+.profilepart h2 {
+	position: absolute;
+	width: 337px;
+	height: 38px;
+	left: 590px;
+	top: 580px;
+}
+
+.profilepart p {
+	position: absolute;
+	text-align: justify;
+	width: 1010px;
+	height: 38px;
+	left: 200px;
+	top: 1020px;
+}
+
+
+.missionpart h2 {
+	position: absolute;
+	width: 337px;
+	height: 38px;
+	left: 590px;
+	top: 1150px;
+}
+
+.missionpart p {
+	position: absolute;
+	text-align: justify;
+	width: 1010px;
+	height: 38px;
+	left: 200px;
+	top: 1250px;
+
+}
+.buttoncontainer{
+	position: absolute;
+	top: 1400px;
+	left: 600px;
+
+
+}
+
