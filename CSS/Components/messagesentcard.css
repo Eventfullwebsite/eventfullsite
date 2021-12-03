@@ -1,0 +1,49 @@
+.messagesentcard {
+	position: absolute;
+	width: 998px;
+	height: 900px;
+	left: 180px;
+	top: 600px;
+}
+
+.messagesentcard img {
+    filter: contrast(50%);
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 5px;
+	width: 998px;
+	height: 672px;
+	left: 180px;
+	top: 568px;
+}
+
+.messagesentcard h1 {
+	position: absolute;
+	width: 550px;
+	height: 30px;
+	left: 240px;
+	top: 100px;
+}
+
+.messagesentcard h2 {
+	position: absolute;
+	left: 200px;
+	top: 200px;
+}
+
+.messagesentcard h3 {
+	position: absolute;
+	font-style: bold;
+    width: 557px;
+    height: 184px;
+    left: 437px;
+    top: 786px;
+}
+
+.messagesentcard a {
+	position: absolute;
+	left: 420px;
+	top: 550px;
+}
+
