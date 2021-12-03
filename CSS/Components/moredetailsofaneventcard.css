@@ -1,0 +1,160 @@
+.moredetailsofanevent {
+	position: absolute;
+	height: 950px;
+	margin: auto;
+	padding-top: 50px;
+}
+
+.moredetailsofanevent h1 {
+	position: absolute;
+	width: 400px;
+	height: 38px;
+	left: 495px;
+	top: 100px;
+	text-align: center;
+}
+
+.moredetailsofanevent h2 {
+	position: absolute;
+	width: 500px;
+	height: 38px;
+	left: 640px;
+	top: 190px;
+
+}
+
+.moredetailsofanevent img {
+	border-radius: 10px;
+	width: 351px;
+	height: 223px;
+}
+
+.card1 {
+  position: absolute;
+  width: 351px;
+  height: 223px;
+  left: 90px;
+  top: 300px;
+}
+
+.card2 {
+  position: absolute;
+  width: 351px;
+  height: 223px;
+  left: 490px;
+  top: 300px;
+}
+
+
+.card3 {
+  position: absolute;
+  width: 351px;
+  height: 223px;
+  left: 900px;
+  top: 300px;
+}
+
+.card4 {
+  position: absolute;
+  width: 351px;
+  height: 223px;
+  left: 90px;
+  top: 650px;
+}
+
+.card5 {
+  position: absolute;
+  width: 351px;
+  height: 223px;
+  left: 490px;
+  top: 650px;
+}
+
+.card6 {
+  position: absolute;
+  width: 351px;
+  height: 223px;
+  left: 900px;
+  top: 650px;
+}
+
+
+.button {
+  position: absolute;
+  width: 160px;
+  height: 64px;
+  left: 590px;
+  top: 1350px;
+}
+
+.timecard1 {
+  position: absolute;
+  width: 304px;
+  height: 140px;
+  background-color:#BBDED6;
+  left: 110px;
+  top: 1427px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+
+.timecard1 p {
+height: 73px;
+left: 60px;
+top: 45px;
+right:  64px;
+bottom: 40px;
+line-height: 30px;
+font-weight: bold;
+text-align: center;
+font-size: 24px;
+position: absolute;
+}
+
+.timecard2 {
+  width: 304px;
+  height: 140px;
+  background-color:#BBDED6;
+  left: 520px;
+  top: 1427px;
+  border-radius: 10px;
+  position: absolute;
+  text-align: center;
+}
+
+.timecard2 p {
+height: 50px;
+left: 80px;
+top: 45px;
+right:  64px;
+line-height: 30px;
+font-weight: bold;
+text-align: center;
+font-size: 24px;
+position: absolute;
+}
+
+.timecard3 {
+  width: 304px;
+  height: 140px;
+  background-color:#BBDED6;
+  left: 930px;
+  top: 1427px;
+  border-radius: 10px;
+  position: absolute;
+  text-align: center;
+}
+
+.timecard3 p {
+height: 73px;
+left: 52px;
+top: 45px;
+right:  38px;
+bottom: 40px;
+line-height: 30px;
+font-weight: bold;
+text-align: center;
+font-size: 24px;
+position: absolute;
+}
