@@ -33,7 +33,7 @@
   padding: 6px;
   margin-top: 8px;
   font-size: 17px;
-  border-radius: 5px;
+  border-radius: none;
 }
 
 .topnav .search-container button {
@@ -50,7 +50,7 @@
 
 .topnav .search-container button:hover {
   background-color: #DFD8C8;
-  border: 10px #BBDED6;
+  border: 10px #BBDED6 solid;
 }
 
 @media screen and (max-width: 600px) {
