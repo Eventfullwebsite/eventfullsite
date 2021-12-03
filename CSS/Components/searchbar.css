@@ -26,6 +26,7 @@
 
 .topnav .search-container {
   float: right;
+  border-radius: 5px
 }
 
 .topnav input[type=text] {
@@ -49,7 +50,7 @@
 
 .topnav .search-container button:hover {
   background: #DFD8C8;
-  border: 1px #BBDED6 double;
+  border: 5px #BBDED6 double;
 }
 
 @media screen and (max-width: 600px) {
