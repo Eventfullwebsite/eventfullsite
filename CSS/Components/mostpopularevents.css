@@ -1,0 +1,84 @@
+.pagetitle h1 {
+	position: absolute;
+	left: 228px;
+	top: 470px;
+}
+
+
+.event1 img {
+	position: absolute;
+	width: 465px;
+	height: 257px;
+	left: 215px;
+	top: 592px;
+	border-radius: 10px;
+}
+
+.event1 h1 {
+	position: absolute;
+	left: 779px;
+	top: 620px;
+	font-size: 32px;
+}
+
+.event1 h2 {
+	position: absolute;
+	left: 779px;
+	top: 680px;
+	width: 210px;
+	font-size: 26px;
+
+}
+
+.event2 img {
+	position: absolute;
+	width: 465px;
+	height: 261px;
+	left: 215px;
+	top: 906px;
+	border-radius: 10px;
+
+}
+
+.event2 h1 {
+	position: absolute;
+	left: 779px;
+	top: 929px;
+	font-size: 32px;
+}
+
+.event2 h2 {
+	position: absolute;
+    left: 779px;
+    top:  990px;
+	width: 270px;
+	font-size: 26px;
+
+}
+
+
+.event3 img {
+	position: absolute;
+	width: 465px;
+	height: 257px;
+	left: 215px;
+	top: 1224px;
+	border-radius: 10px;
+}
+
+.event3 h1 {
+	position: absolute;
+	left: 779px;
+	top: 1252px;
+	font-size: 32px;
+}
+
+
+.event3 h2 {
+	position: absolute;
+	left: 779px;
+	top:  1320px;
+	width: 250px;
+	font-size: 26px;
+}
+
