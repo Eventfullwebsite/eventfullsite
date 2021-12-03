@@ -5,15 +5,8 @@
 @import url("Components/banner.css");
 @import url("Components/card.css");
 @import url("Components/searchbar.css");
-@import url("Pages/homepage.css");
-@import url("Pages/instagram.css");
-@import url("Pages/detailsoftheevent1.css");
-@import url("Pages/detailsoftheevent2.css");
-@import url("Pages/detailsoftheevent3.css");
-@import url("Pages/mostpopularevents.css");
-@import url("Pages/moredetailsofanevent1.css");
-@import url("Pages/moredetailsofanevent2.css");
-@import url("Pages/moredetailsofanevent3.css");
+@import url("Components/mostpopularevents.css);
+
 
 
 body{
