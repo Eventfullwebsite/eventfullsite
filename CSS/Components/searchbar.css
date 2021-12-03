@@ -49,7 +49,7 @@
 
 .topnav .search-container button:hover {
   background: #DFD8C8;
-	border: 1px #BBDED6 double;
+  border: 1px #BBDED6 double;
 }
 
 @media screen and (max-width: 600px) {
