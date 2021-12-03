@@ -33,7 +33,7 @@
   padding: 6px;
   margin-top: 8px;
   font-size: 17px;
-  border-radius: 2px;
+  border-radius: 1px;
 }
 
 .topnav .search-container button {
@@ -45,12 +45,12 @@
   font-size: 17px;
   border: none;
   cursor: pointer;
-  border-radius: 2px;
+  border-radius: 1px;
 }
 
 .topnav .search-container button:hover {
   background-color: #DFD8C8;
-  border: 5px #BBDED6 solid;
+  border: 1px #BBDED6 solid;
 }
 
 @media screen and (max-width: 600px) {
